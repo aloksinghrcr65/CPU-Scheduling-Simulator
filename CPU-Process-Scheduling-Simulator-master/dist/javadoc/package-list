@@ -1,0 +1,6 @@
+process.scheduling.simulator
+process.scheduling.simulator.fcfs
+process.scheduling.simulator.roundRobin
+process.scheduling.simulator.sjf
+process.scheduling.simulator.srtf
+process.scheduling.simulator.view
